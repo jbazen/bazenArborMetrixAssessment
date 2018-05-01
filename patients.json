@@ -1,0 +1,15 @@
+{
+  "patients" : [ {
+    "patientId" : "1234",
+    "sex" : "m",
+    "state" : "Michigan",
+    "name" : "John Smith",
+    "age" : "56"
+  }, {
+    "patientId" : "1235",
+    "sex" : "f",
+    "state" : "Ohio",
+    "name" : "Jane Smith",
+    "age" : "46"
+  } ]
+}
